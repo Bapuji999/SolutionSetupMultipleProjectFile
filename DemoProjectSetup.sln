@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProjectSetup", "DemoProjectSetup\DemoProjectSetup.csproj", "{F25A36C4-EF0D-4346-BF87-850EF0E43AD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.API", "DemoProjectSetup\Demo.API.csproj", "{F25A36C4-EF0D-4346-BF87-850EF0E43AD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Service", "Demo.Service\Demo.Service.csproj", "{CFA9B357-A80D-4D6A-985E-1BF2F805DD32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Service", "Demo.Service\Demo.Service.csproj", "{CFA9B357-A80D-4D6A-985E-1BF2F805DD32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Repository", "Demo.Repository\Demo.Repository.csproj", "{61C9CC4C-4285-4DB6-AEF6-792F94CAE224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Repository", "Demo.Repository\Demo.Repository.csproj", "{61C9CC4C-4285-4DB6-AEF6-792F94CAE224}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.EntityFramework", "Demo.EntityFramework\Demo.EntityFramework.csproj", "{872349FD-7E05-4296-BE09-C29740F40868}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.EntityFramework", "Demo.EntityFramework\Demo.EntityFramework.csproj", "{872349FD-7E05-4296-BE09-C29740F40868}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Model", "Demo.Model\Demo.Model.csproj", "{A6389197-43CC-4A8D-8C68-A4CCFF91EC13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Model", "Demo.Model\Demo.Model.csproj", "{A6389197-43CC-4A8D-8C68-A4CCFF91EC13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Shared", "Demo.Shared\Demo.Shared.csproj", "{5EA84E1C-CFCF-4BF3-A039-CB99513881AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Shared", "Demo.Shared\Demo.Shared.csproj", "{5EA84E1C-CFCF-4BF3-A039-CB99513881AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
