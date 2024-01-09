@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "J3w+yLDkCHCyjSoKKTpJR9GfeLpQO6hWM75+v3uP1q0=",
-  "Source": "DemoProjectSetup",
-  "BasePath": "_content/DemoProjectSetup",
+  "Hash": "0wODb2xq0TeR6Ib9WdjaNpbKNxn0lzBBXVODuz3Ykqg=",
+  "Source": "Demo.API",
+  "BasePath": "_content/Demo.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <Folder Include="CommandModel\" />
-    <Folder Include="QueryModel\" />
   </ItemGroup>
 
   <ItemGroup>
